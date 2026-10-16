@@ -1,7 +1,7 @@
 # Empirical replication materials
 
 **Project:** Renewable Energy Opportunity and the Geography of Infrastructure Disadvantage: Settlement-Level Evidence from Ghana  
-**Researcher:** Peter Sarpong, Independent researcher
+**Authors:** Peter Sarpong and Dora Konadu
 
 ## What this archive contains
 - **11 R scripts:** original Phase 1, 2, 2B, 2C, 3, 4, 5, 6, 7, 8, and 9 scripts under `scripts/`.
