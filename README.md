@@ -36,8 +36,12 @@ The original 11 R scripts and verified Phase 6–9 output tables are now availab
 ## Research outputs
 The final paper, data/code archive, and permanent SSRN/DOI links are **not** included here unless independently verified and explicitly approved for public release.
 
-## Site publication
-In repository **Settings → Pages**, set **Build and deployment → Deploy from a branch**, choose **main** and **/(root)**, then save. The intended address is https://petersarpong1157-cmyk.github.io/ghana-energy-geography/ .
+## Research website and Zenodo archive
+
+- **GitHub Pages research website:** https://petersarpong1157-cmyk.github.io/ghana-energy-geography/
+- **Archived GitHub release v3.3.7:** https://doi.org/10.5281/zenodo.23421035
+
+GitHub Pages has been enabled and the website published by the repository owner. The Zenodo DOI refers to the archived research code and website release; it is not an SSRN paper DOI.
 
 ## AI assistance
 ChatGPT was used for research planning, coding support, interpretation, manuscript drafting and language editing. The researcher is responsible for verification and conclusions.
