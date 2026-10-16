@@ -11,6 +11,10 @@ The landing page is in [index.html](index.html), designed to run as a static Git
 
 **Reproducibility status:** See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for verified tests and remaining caveats. Use [CITATION.cff](CITATION.cff) for repository citation metadata.
 
+## Empirical replication files
+
+The original 11 R scripts and verified Phase 6–9 output tables are now available in [analysis/](analysis/README.md). The upstream source datasets are linked rather than redistributed publicly pending rights/provenance review. This is a **partially independently validated research archive**, not a certified end-to-end replication.
+
 ## Study summary
 - Source records: 25,342 settlement records from the World Bank Ghana DRE Atlas.
 - Main complete-case model: 21,582 observations.
