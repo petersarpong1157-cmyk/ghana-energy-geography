@@ -1,0 +1,569 @@
+source_region,source_district,district261,district272,source261_equal,source272_equal,n
+Upper East Region,BAWKU WEST,Bawku West,Bawku West,TRUE,TRUE,360
+Upper East Region,BONGO,Bongo,Bongo,TRUE,TRUE,338
+Upper East Region,TEMPANE,Tempane,Tempane,TRUE,TRUE,337
+Upper East Region,PUSIGA,Pusiga,Pusiga,TRUE,TRUE,330
+Upper East Region,BINDURI,Binduri,Binduri,TRUE,TRUE,302
+Eastern Region,UPPER MANYA,Upper Manya Krobo,Upper Manya Krobo,FALSE,FALSE,281
+Upper West Region,WA WEST,Wa West,Wa West,TRUE,TRUE,278
+Savannah Region,SAWLA-TUNA-KALBA,Sawla Tuna Kalba,Sawla Tuna Kalba,TRUE,TRUE,277
+Upper West Region,JIRAPA,Jirapa Municipal,Jirapa Municipal,TRUE,TRUE,273
+Upper East Region,GARU,Garu,Garu,TRUE,TRUE,266
+Northern Region,GUSHEGU,Gushegu Municipal,Gushegu Municipal,TRUE,TRUE,265
+Upper West Region,LAWRA,Lawra Municipal,Lawra Municipal,TRUE,TRUE,261
+Upper East Region,TALENSI,Talensi,Talensi,TRUE,TRUE,258
+Northern Region,SABOBA,Saboba,Saboba,TRUE,TRUE,257
+Upper East Region,BUILSA NORTH,Builsa North Municipal,Builsa North Municipal,TRUE,TRUE,247
+Western Region,WASSA EAST,Wassa East,Wassa East,TRUE,TRUE,246
+Upper East Region,KASENA NANKANA EAST,Kasena Nankana Municipal,Kasena Nankana Municipal,FALSE,FALSE,238
+Ashanti Region,ATWIMA MPONUA,Atwima Mponua,Atwima Mponua,TRUE,TRUE,233
+Ashanti Region,ADANSI SOUTH,Adansi South,Adansi South,TRUE,TRUE,232
+Eastern Region,YILO KROBO,Yilo Krobo Municipal,Yilo Krobo Municipal,TRUE,TRUE,220
+Upper West Region,NANDOM,Nandom,Nandom,TRUE,TRUE,219
+Volta Region,AKATSI SOUTH,Akatsi South Municipal,Akatsi South Municipal,TRUE,TRUE,219
+Upper East Region,BAWKU MUNICIPAL,Bawku Municipal,Bawku Municipal,TRUE,TRUE,218
+Savannah Region,CENTRAL GONJA,Central Gonja,Central Gonja,TRUE,TRUE,209
+Eastern Region,KWAHU AFRAM PLAINS NORTH,Kwahu Afram Plains North,Kwahu Afram Plains North,TRUE,TRUE,201
+Volta Region,SOUTH TONGU,South Tongu,South Tongu,TRUE,TRUE,193
+Northern Region,KARAGA,Karaga,Karaga,TRUE,TRUE,192
+North East Region,EAST MAMPRUSI,East Mamprusi Municipal,East Mamprusi Municipal,TRUE,TRUE,190
+Central Region,ASSIN NORTH,Assin North,Assin North,TRUE,TRUE,189
+Central Region,TWIFO ATTI-MORKWA,Twifo Ati Morkwa,Twifo Ati Morkwa,FALSE,FALSE,182
+Eastern Region,AYENSUANO,Ayensuano,Ayensuano,TRUE,TRUE,182
+Upper West Region,NADOWLI-KALEO,Nadowli Kaleo,Nadowli Kaleo,TRUE,TRUE,182
+Volta Region,KETU NORTH,Ketu North Municipal,Ketu North Municipal,TRUE,TRUE,181
+Bono East Region,SENE EAST,Sene East,Sene East,TRUE,TRUE,179
+Ahafo Region,ASUNAFO NORTH MUNICIPAL,Asunafo North Municipal,Asunafo North Municipal,TRUE,TRUE,178
+Eastern Region,KWAHU AFRAM PLAINS SOUTH,Kwahu Afram Plains South,Kwahu Afram Plains South,TRUE,TRUE,177
+Upper East Region,KASENA NANKANA WEST,Kasena Nankana West,Kasena Nankana West,TRUE,TRUE,176
+Western North Region,AOWIN,Aowin Municipal,Aowin Municipal,TRUE,TRUE,174
+Central Region,ASSIN SOUTH,Assin South,Assin South,TRUE,TRUE,173
+Oti Region,KRACHI EAST MUNICIPAL,Krachi East Municipal,Krachi East Municipal,TRUE,TRUE,173
+Upper West Region,LAMBUSSIE-KARNI,Lambussie Karni,Lambussie Karni,TRUE,TRUE,172
+Northern Region,NANUMBA SOUTH,Nanumba South,Nanumba South,TRUE,TRUE,170
+Northern Region,YENDI MUNICIPAL,Yendi Municipal,Yendi Municipal,TRUE,TRUE,169
+Western Region,WASSA AMENFI EAST,Wassa Amenfi East Municipal,Wassa Amenfi East Municipal,TRUE,TRUE,167
+Ahafo Region,ASUNAFO SOUTH,Asunafo South,Asunafo South,TRUE,TRUE,166
+Northern Region,NANUMBA NORTH,Nanumba North Municipal,Nanumba North Municipal,TRUE,TRUE,162
+Western Region,WASSA AMENFI WEST,Wassa Amenfi West Municipal,Wassa Amenfi West Municipal,TRUE,TRUE,158
+Central Region,ASIKUMA-ODOBEN-BRAKWA,Asikuma Odoben Brakwa,Asikuma Odoben Brakwa,TRUE,TRUE,157
+Northern Region,MION,Mion,Mion,TRUE,TRUE,155
+North East Region,CHEREPONI,Chereponi,Chereponi,TRUE,TRUE,154
+Ashanti Region,AMANSIE CENTRAL,Amansie Central,Amansie Central,TRUE,TRUE,151
+Western Region,PRESTEA/HUNI VALLEY,Prestea/Huni Valley Municipal,Prestea/Huni Valley Municipal,TRUE,TRUE,149
+Ashanti Region,ASANTE AKIM SOUTH,Asante Akim South Municipal,Asante Akim South Municipal,TRUE,TRUE,145
+Greater Accra Region,SHAI OSUDOKU,Shai-Osudoku,Shai-Osudoku,TRUE,TRUE,145
+Volta Region,NORTH TONGU,North Tongu,North Tongu,TRUE,TRUE,144
+Western North Region,SEFWI-WIAWSO,Sefwi Wiawso Municipal,Sefwi Wiawso Municipal,TRUE,TRUE,142
+Upper West Region,WA EAST,Wa East,Wa East,TRUE,TRUE,140
+Volta Region,CENTRAL TONGU,Central Tongu,Central Tongu,TRUE,TRUE,138
+North East Region,BUNKPURUGU NAKPANDURI,Bunkpurugu Nakpanduri,Bunkpurugu Nakpanduri,TRUE,TRUE,137
+Oti Region,NKWANTA SOUTH MUNICIPAL,Nkwanta South Municipal,Nkwanta South Municipal,TRUE,TRUE,136
+Upper East Region,BUILSA SOUTH,Builsa South,Builsa South,TRUE,TRUE,136
+Central Region,AGONA EAST,Agona East,Agona East,TRUE,TRUE,133
+Ashanti Region,AHAFO ANO NORTH,Ahafo Ano North Municipal,Ahafo Ano North Municipal,TRUE,TRUE,132
+Eastern Region,UPPER WEST AKIM,Upper West Akim,Upper West Akim,TRUE,TRUE,131
+Northern Region,TATALE SANGULI,Tatale Sanguli,Tatale Sanguli,TRUE,TRUE,130
+Western North Region,BIA EAST,Bia East,Bia East,TRUE,TRUE,130
+Oti Region,KRACHI NCHUMURU,Krachi Nchumuru,Krachi Nchumuru,TRUE,TRUE,126
+Upper West Region,SISSALA WEST,Sissala West,Sissala West,TRUE,TRUE,126
+Northern Region,KPANDAI,Kpandai,Kpandai,TRUE,TRUE,121
+Ahafo Region,TANO NORTH MUNICIPAL,Tano North Municipal,Tano North Municipal,TRUE,TRUE,120
+Northern Region,TOLON,Tolon,Tolon,TRUE,TRUE,118
+Savannah Region,BOLE,Bole,Bole,TRUE,TRUE,118
+Eastern Region,SUHUM MUNICIPAL,Suhum Municipal,Suhum Municipal,TRUE,TRUE,117
+Western Region,WASSA AMENFI CENTRAL,Wassa Amenfi Central,Wassa Amenfi Central,TRUE,TRUE,117
+Western North Region,BIA WEST,Bia West,Bia West,TRUE,TRUE,115
+Ashanti Region,ADANSI ASOKWA,Adansi Asokwa,Adansi Asokwa,TRUE,TRUE,114
+Upper East Region,NABDAM,Nabdam,Nabdam,TRUE,TRUE,114
+Eastern Region,WEST AKIM,West Akim Municipal,West Akim Municipal,TRUE,TRUE,113
+North East Region,WEST MAMPRUSI MUNICIPAL,West Mamprusi Municipal,West Mamprusi Municipal,TRUE,TRUE,111
+Bono East Region,TECHIMAN MUNICIPAL,Techiman Municipal,Techiman Municipal,TRUE,TRUE,110
+Central Region,TWIFO HEMANG LOWER DENKYIRA,Twifo Heman Lower Denkyira,Twifo Heman Lower Denkyira,FALSE,FALSE,109
+North East Region,YUNYOO-NASUAN,Yunyoo Nasuan,Yunyoo Nasuan,TRUE,TRUE,109
+Western North Region,SEFWI AKONTOMBRA,Sefwi Akontombra,Sefwi Akontombra,TRUE,TRUE,109
+Eastern Region,AKYEM MANSA,Akyemansa,Akyemansa,FALSE,FALSE,108
+Ahafo Region,ASUTIFI NORTH,Asutifi North,Asutifi North,TRUE,TRUE,107
+Volta Region,HO WEST,Ho West,Ho West,TRUE,TRUE,106
+Bono East Region,ATEBUBU AMANTIN,Atebubu Amantin Municipal,Atebubu Amantin Municipal,TRUE,TRUE,104
+Eastern Region,KWAEBIBIREM,Kwaebibirem Municipal,Kwaebibirem Municipal,TRUE,TRUE,103
+Western North Region,JUABOSO,Juaboso,Juaboso,TRUE,TRUE,103
+Central Region,ABURA-ASEBU-KWAMANKESE,Abura Asebu Kwamankese,Abura Asebu Kwamankese,TRUE,TRUE,101
+Eastern Region,KWAHU EAST,Kwahu East,Kwahu East,TRUE,TRUE,100
+Western Region,AHANTA WEST MUNICIPAL,Ahanta West Municipal,Ahanta West Municipal,TRUE,TRUE,100
+Bono East Region,KINTAMPO NORTH MUNICIPAL,Kintampo North Municipal,Kintampo North Municipal,TRUE,TRUE,99
+Central Region,AJUMAKO-ENYAN-ESSIAM,Ajumako Enyan Essiam,Ajumako Enyan Essiam,TRUE,TRUE,99
+Ashanti Region,SEKYERE CENTRAL,Sekyere Central,Sekyere Central,TRUE,TRUE,98
+Bono Region,TAIN,Tain,Tain,TRUE,TRUE,98
+Volta Region,AGOTIME ZIOPE,Agortime-Ziope,Agortime-Ziope,FALSE,FALSE,98
+Western North Region,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,Bibiani Anhwiaso Bekwai Municipal,Bibiani Anhwiaso Bekwai Municipal,TRUE,TRUE,98
+Western Region,JOMORO,Jomoro Municipal,Jomoro Municipal,TRUE,TRUE,98
+Western North Region,BODI,Bodi,Bodi,TRUE,TRUE,97
+Eastern Region,FANTEAKWA NORTH,Fanteakwa North,Fanteakwa North,TRUE,TRUE,96
+Bono East Region,KINTAMPO SOUTH,Kintampo South,Kintampo South,TRUE,TRUE,95
+Volta Region,AFADZATO SOUTH,Afadzato South,Afadzato South,TRUE,TRUE,95
+Oti Region,NKWANTA NORTH,Nkwanta North (Kpassa),Nkwanta North (Kpassa),FALSE,FALSE,94
+Savannah Region,NORTH EAST GONJA,East Gonja Municipal,East Gonja Municipal,FALSE,FALSE,93
+Upper East Region,KASENA NANKANA WEST,Kasena Nankana Municipal,Kasena Nankana Municipal,FALSE,FALSE,92
+Upper West Region,WA MUNICIPAL,Wa Municipal,Wa Municipal,TRUE,TRUE,92
+Western Region,ELLEMBELLE,Ellembelle,Ellembelle,TRUE,TRUE,92
+Eastern Region,OKERE,Okere,Okere,TRUE,TRUE,91
+Upper West Region,SISSALA EAST,Sissala East Municipal,Sissala East Municipal,TRUE,TRUE,91
+Ahafo Region,ASUTIFI SOUTH,Asutifi South,Asutifi South,TRUE,TRUE,89
+Eastern Region,ASENE AKROSO MANSO,Asene Manso Akroso,Asene Manso Akroso,FALSE,FALSE,89
+Northern Region,KUMBUNGU,Kumbungu,Kumbungu,TRUE,TRUE,89
+Bono Region,SUNYANI WEST,Sunyani West Municipal,Sunyani West Municipal,TRUE,TRUE,87
+Central Region,UPPER DENKYIRA EAST MUNICIPAL,Upper Denkyira East Municipal,Upper Denkyira East Municipal,TRUE,TRUE,87
+Ashanti Region,SEKYERE AFRAM PLAINS NORTH,Sekyere Afram Plains,Sekyere Afram Plains,FALSE,FALSE,86
+Ashanti Region,BEKWAI MUNICIPAL,Bekwai Municipal,Bekwai Municipal,TRUE,TRUE,85
+Bono East Region,NKORANZA SOUTH,Nkoranza South Municipal,Nkoranza South Municipal,TRUE,TRUE,84
+Bono Region,DORMAA MUNICIPAL,Dormaa Central Municipal,Dormaa Central Municipal,FALSE,FALSE,82
+Central Region,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,Komenda Edina Eguafo Abirem Municipal,Komenda Edina Eguafo Abirem Municipal,TRUE,TRUE,82
+Eastern Region,ASUOGYAMAN,Asuogyaman,Asuogyaman,TRUE,TRUE,82
+Ashanti Region,EJURA-SEKYEDUMASE,Ejura Sekyedumase Municipal,Ejura Sekyedumase Municipal,TRUE,TRUE,80
+Northern Region,ZABZUGU,Zabzugu,Zabzugu,TRUE,TRUE,80
+Oti Region,KRACHI WEST,Krachi West Municipal,Krachi West Municipal,TRUE,TRUE,80
+Volta Region,HO MUNICIPAL,Ho Municipal,Ho Municipal,TRUE,TRUE,80
+Savannah Region,NORTH EAST GONJA,North East Gonja,North East Gonja,TRUE,TRUE,79
+Oti Region,BIAKOYE,Biakoye,Biakoye,TRUE,TRUE,78
+Bono Region,DORMAA WEST,Dormaa West,Dormaa West,TRUE,TRUE,77
+Eastern Region,KWAHU WEST,Kwahu West Municipal,Kwahu West Municipal,TRUE,TRUE,77
+Eastern Region,LOWER MANYA,Lower Manya Krobo Municipal,Lower Manya Krobo Municipal,FALSE,FALSE,76
+Greater Accra Region,NINGO/PRAMPRAM,Ningo-Prampram,Ningo-Prampram,TRUE,TRUE,76
+Upper East Region,BOLGATANGA MUNICIPAL,Bolgatanga Municipal,Bolgatanga Municipal,TRUE,TRUE,76
+Volta Region,KETU SOUTH,Ketu South Municipal,Ketu South Municipal,TRUE,TRUE,76
+Bono Region,WENCHI MUNICIPAL,Wenchi Municipal,Wenchi Municipal,TRUE,TRUE,75
+Volta Region,ADAKLU,Adaklu,Adaklu,TRUE,TRUE,75
+Ashanti Region,ADANSI AKROFUOM,Akrofuom,Akrofuom,FALSE,FALSE,74
+Central Region,UPPER DENKYIRA WEST,Upper Denkyira West,Upper Denkyira West,TRUE,TRUE,73
+Northern Region,SAVELUGU,Savelugu Municipal,Savelugu Municipal,TRUE,TRUE,73
+Eastern Region,BIRIM NORTH,Birim North,Birim North,TRUE,TRUE,72
+Western Region,NZEMA EAST,Nzema East Municipal,Nzema East Municipal,TRUE,TRUE,72
+Western Region,TARKWA NSUAEM,Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem Municipal,TRUE,TRUE,72
+Oti Region,KADJEBI,Kadjebi,Kadjebi,TRUE,TRUE,71
+Ashanti Region,OFFINSO NORTH,Offinso North,Offinso North,TRUE,TRUE,70
+Bono Region,SUNYANI MUNICIPAL,Sunyani Municipal,Sunyani Municipal,TRUE,TRUE,70
+Central Region,AGONA WEST MUNICIPAL,Agona West Municipal,Agona West Municipal,TRUE,TRUE,70
+Bono East Region,SENE WEST,Sene West,Sene West,TRUE,TRUE,69
+Bono Region,DORMAA EAST,Dormaa East,Dormaa East,TRUE,TRUE,68
+Bono Region,JAMAN SOUTH MUNICIPAL,Jaman South,Jaman South,TRUE,TRUE,68
+Upper West Region,DAFFIAMA BUSSIE ISSA,Daffiama Bussie Issa,Daffiama Bussie Issa,TRUE,TRUE,67
+Greater Accra Region,ADA EAST,Ada East,Ada East,TRUE,TRUE,66
+Ashanti Region,AHAFO ANO SOUTH EAST,Ahafo Ano South East,Ahafo Ano South East,TRUE,TRUE,65
+Central Region,MFANTSEMAN MUNICIPAL,Mfantsiman Municipal,Mfantsiman Municipal,FALSE,FALSE,65
+Volta Region,AKATSI NORTH,Akatsi North,Akatsi North,TRUE,TRUE,65
+Eastern Region,KWAHU SOUTH,Kwahu South Municipal,Kwahu South Municipal,TRUE,TRUE,64
+Ashanti Region,AMANSIE SOUTH,Amansie South,Amansie South,TRUE,TRUE,63
+Ashanti Region,BOSOME FREHO,Bosome Freho,Bosome Freho,TRUE,TRUE,62
+Ashanti Region,BOSOMTWE,Bosomtwi,Bosomtwi,FALSE,FALSE,61
+Central Region,GOMOA EAST,Gomoa East,Gomoa East,TRUE,TRUE,61
+Eastern Region,AKWAPEM NORTH,Akwapim North Municipal,Akwapim North Municipal,FALSE,FALSE,61
+North East Region,MAMPRUGU MOAGDURI,Mamprugu Moagduri,Mamprugu Moagduri,TRUE,TRUE,61
+Eastern Region,ACHIASE,Achiase,Achiase,TRUE,TRUE,60
+Eastern Region,ATIWA EAST,Atiwa East,Atiwa East,TRUE,TRUE,60
+Oti Region,JASIKAN,Jasikan Municipal,Jasikan Municipal,TRUE,TRUE,59
+Savannah Region,WEST GONJA,West Gonja,West Gonja,TRUE,TRUE,59
+Eastern Region,DENKYEMBOUR,Denkyembuor,Denkyembuor,FALSE,FALSE,57
+Greater Accra Region,ADA WEST,Ada West,Ada West,TRUE,TRUE,57
+Ashanti Region,OFFINSO MUNICIPAL,Offinso Municipal,Offinso Municipal,TRUE,TRUE,56
+Ashanti Region,SEKYERE SOUTH,Sekyere South,Sekyere South,TRUE,TRUE,56
+Bono East Region,PRU EAST,Pru East,Pru East,TRUE,TRUE,56
+Northern Region,NANTON,Nanton,Nanton,TRUE,TRUE,56
+Savannah Region,NORTH GONJA,North Gonja,North Gonja,TRUE,TRUE,56
+Ashanti Region,AHAFO ANO SOUTH EAST,Ahafo Ano South West,Ahafo Ano South West,FALSE,FALSE,55
+Ashanti Region,AHAFO ANO SOUTH WEST,Ahafo Ano South West,Ahafo Ano South West,TRUE,TRUE,55
+Central Region,EKUMFI,Ekumfi,Ekumfi,TRUE,TRUE,55
+Ashanti Region,AMANSIE WEST,Amansie West,Amansie West,TRUE,TRUE,54
+Eastern Region,FANTEAKWA SOUTH,Fanteakwa South,Fanteakwa South,TRUE,TRUE,54
+Savannah Region,NORTH EAST GONJA,Kpandai,Kpandai,FALSE,FALSE,54
+Western Region,SHAMA,Shama,Shama,TRUE,TRUE,53
+Bono East Region,NKORANZA NORTH,Nkoranza North,Nkoranza North,TRUE,TRUE,51
+Ashanti Region,ASANTE AKIM NORTH,Asante Akim North Municipal,Asante Akim North Municipal,TRUE,TRUE,50
+Ashanti Region,MAMPONG MUNICIPAL,Mampong Municipal,Mampong Municipal,TRUE,TRUE,50
+Northern Region,TAMALE METROPOLITAN,Tamale Metropolitan Area (TMA),TMA-Tamale South,FALSE,FALSE,50
+Ahafo Region,TANO SOUTH MUNICIPAL,Tano South Municipal,Tano South Municipal,TRUE,TRUE,49
+Eastern Region,ABUAKWA SOUTH,Abuakwa South Municipal,Abuakwa South Municipal,TRUE,TRUE,49
+Savannah Region,EAST GONJA MUNICIPAL,East Gonja Municipal,East Gonja Municipal,TRUE,TRUE,49
+Central Region,GOMOA WEST,Gomoa West,Gomoa West,TRUE,TRUE,47
+North East Region,BUNKPURUGU NAKPANDURI,Yunyoo Nasuan,Yunyoo Nasuan,FALSE,FALSE,47
+Bono Region,JAMAN NORTH,Jaman North,Jaman North,TRUE,TRUE,45
+Eastern Region,ATIWA WEST,Atiwa West,Atiwa West,TRUE,TRUE,45
+Volta Region,HOHOE MUNICIPAL,Hohoe Municipal,Hohoe Municipal,TRUE,TRUE,44
+Ashanti Region,ATWIMA NWABIAGYA SOUTH,Atwima Nwabiagya South Municipal,Atwima Nwabiagya South Municipal,TRUE,TRUE,43
+Volta Region,KETA MUNICIPAL,Keta Municipal,Keta Municipal,TRUE,TRUE,43
+Western Region,MPOHOR,Mpohor,Mpohor,TRUE,TRUE,43
+Volta Region,NORTH DAYI,North Dayi,North Dayi,TRUE,TRUE,41
+Bono East Region,PRU WEST,Pru West,Pru West,TRUE,TRUE,40
+Ashanti Region,BOSOME FREHO,Adansi Asokwa,Adansi Asokwa,FALSE,FALSE,39
+Ashanti Region,EJISU MUNICIPAL,Juaben Municipal,Juaben Municipal,FALSE,FALSE,39
+Central Region,AWUTU SENYA,Awutu Senya,Awutu Senya,TRUE,TRUE,39
+Bono East Region,TECHIMAN NORTH,Techiman North,Techiman North,TRUE,TRUE,38
+Upper East Region,BOLGA  EAST,Bolgatanga East,Bolgatanga East,FALSE,FALSE,37
+Volta Region,SOUTH DAYI,South Dayi,South Dayi,TRUE,TRUE,35
+Ashanti Region,AMANSIE WEST,Amansie South,Amansie South,FALSE,FALSE,34
+Ashanti Region,ATWIMA KWANWOMA,Atwima Kwanwoma,Atwima Kwanwoma,TRUE,TRUE,34
+Ashanti Region,ATWIMA NWABIAGYA NORTH,Atwima Nwabiagya North,Atwima Nwabiagya North,TRUE,TRUE,34
+Ashanti Region,ASANTE AKIM CENTRAL MUNICIPAL,Asante Akim Central Municipal,Asante Akim Central Municipal,TRUE,TRUE,33
+Volta Region,KPANDO MUNICIPAL,Kpando Municipal,Kpando Municipal,TRUE,TRUE,33
+Ashanti Region,ADANSI NORTH,Adansi North,Adansi North,TRUE,TRUE,32
+Eastern Region,AKWAPEM SOUTH,Akwapim South Municipal,Akwapim South Municipal,FALSE,FALSE,32
+Eastern Region,BIRIM SOUTH,Birim South,Birim South,TRUE,TRUE,32
+Central Region,ASSIN FOSU,Assin Fosu Municipal,Assin Fosu Municipal,TRUE,TRUE,31
+Northern Region,SAGNERIGU,Sagnarigu Municipal,Sagnarigu Municipal,FALSE,FALSE,31
+Western North Region,SUAMAN,Suaman,Suaman,TRUE,TRUE,31
+Ashanti Region,SEKYERE KUMAWU,Sekyere Kumawu,Sekyere Kumawu,TRUE,TRUE,29
+Volta Region,ANLOGA,Anloga,Anloga,TRUE,TRUE,29
+Central Region,GOMOA CENTRAL,Gomoa West,Gomoa West,FALSE,FALSE,28
+Ashanti Region,SEKYERE EAST,Sekyere East,Sekyere East,TRUE,TRUE,27
+Bono Region,BANDA,Banda,Banda,TRUE,TRUE,27
+Eastern Region,ABUAKWA NORTH,Abuakwa North Municipal,Abuakwa North Municipal,TRUE,TRUE,27
+Oti Region,KRACHI EAST MUNICIPAL,Krachi West Municipal,Krachi West Municipal,FALSE,FALSE,27
+Volta Region,HOHOE MUNICIPAL,Guan,Guan,FALSE,FALSE,27
+Bono Region,BEREKUM WEST,Berekum West,Berekum West,TRUE,TRUE,25
+Central Region,GOMOA EAST,Gomoa Central,Gomoa Central,FALSE,FALSE,23
+Northern Region,TAMALE METROPOLITAN,Sagnarigu Municipal,Sagnarigu Municipal,FALSE,FALSE,22
+Western North Region,JUABOSO,Bia West,Bia West,FALSE,FALSE,22
+Western Region,WASSA AMENFI CENTRAL,Wassa Amenfi East Municipal,Wassa Amenfi East Municipal,FALSE,FALSE,22
+Ashanti Region,OBUASI MUNICIPAL,Obuasi Municipal,Obuasi Municipal,TRUE,TRUE,21
+Upper East Region,GARU,Tempane,Tempane,FALSE,FALSE,21
+Volta Region,KETA MUNICIPAL,Anloga,Anloga,FALSE,FALSE,21
+Ashanti Region,JUABEN MUNICIPAL,Juaben Municipal,Juaben Municipal,TRUE,TRUE,20
+Eastern Region,NEW JUABEN NORTH MUNICIPAL,New Juaben North Municipal,New Juaben North Municipal,TRUE,TRUE,20
+Eastern Region,NSAWAM ADOAGYIRI,Nsawam Adoagyiri Municipal,Nsawam Adoagyiri Municipal,TRUE,TRUE,20
+Northern Region,MION,Yendi Municipal,Yendi Municipal,FALSE,FALSE,20
+Ashanti Region,EJISU MUNICIPAL,Ejisu Municipal,Ejisu Municipal,TRUE,TRUE,19
+Bono Region,BEREKUM EAST MUNICIPAL,Berekum East Municipal,Berekum East Municipal,TRUE,TRUE,18
+Bono East Region,SENE WEST,Pru East,Pru East,FALSE,FALSE,17
+Upper East Region,KASENA NANKANA EAST,Kasena Nankana West,Kasena Nankana West,FALSE,FALSE,17
+Ashanti Region,AFIGYA KWABRE SOUTH,Afigya Kwabre South,Afigya Kwabre South,TRUE,TRUE,16
+Central Region,EFFUTU MUNICIPAL,Effutu Municipal,Effutu Municipal,TRUE,TRUE,16
+Upper East Region,TEMPANE,Garu,Garu,FALSE,FALSE,16
+Bono East Region,PRU EAST,Pru West,Pru West,FALSE,FALSE,15
+Central Region,ASSIN NORTH,Assin Fosu Municipal,Assin Fosu Municipal,FALSE,FALSE,15
+Central Region,CAPE COAST METROPOLITAN,Cape Cape Metropolitan Area (CCMA),CCMA-Cape Coast North,FALSE,FALSE,15
+Ashanti Region,AFIGYA KWABRE NORTH,Afigya Kwabre North,Afigya Kwabre North,TRUE,TRUE,14
+Oti Region,NKWANTA SOUTH MUNICIPAL,Nkwanta North (Kpassa),Nkwanta North (Kpassa),FALSE,FALSE,14
+Volta Region,KETU SOUTH,Ketu North Municipal,Ketu North Municipal,FALSE,FALSE,13
+North East Region,YUNYOO-NASUAN,East Mamprusi Municipal,East Mamprusi Municipal,FALSE,FALSE,12
+Northern Region,NANUMBA SOUTH,Nanumba North Municipal,Nanumba North Municipal,FALSE,FALSE,11
+Ashanti Region,AFIGYA KWABRE SOUTH,Afigya Kwabre North,Afigya Kwabre North,FALSE,FALSE,10
+Greater Accra Region,GA SOUTH MUNICIPAL,Ga South Municipal,Ga South Municipal,TRUE,TRUE,10
+Northern Region,KARAGA,Gushegu Municipal,Gushegu Municipal,FALSE,FALSE,10
+Ashanti Region,ATWIMA NWABIAGYA SOUTH,Atwima Nwabiagya North,Atwima Nwabiagya North,FALSE,FALSE,9
+Bono East Region,SENE EAST,Pru East,Pru East,FALSE,FALSE,9
+Central Region,ASSIN FOSU,Assin North,Assin North,FALSE,FALSE,9
+Eastern Region,BIRIM CENTRAL MUNICIPAL,Birim Central Municipal,Birim Central Municipal,TRUE,TRUE,9
+Savannah Region,NORTH EAST GONJA,Pru East,Pru East,FALSE,FALSE,9
+Ashanti Region,AMANSIE CENTRAL,Bekwai Municipal,Bekwai Municipal,FALSE,FALSE,8
+Ashanti Region,KWABRE EAST,Kwabre East,Kwabre East,TRUE,TRUE,8
+Eastern Region,BIRIM SOUTH,Achiase,Achiase,FALSE,FALSE,8
+Eastern Region,KWAHU SOUTH,Kwahu East,Kwahu East,FALSE,FALSE,8
+Eastern Region,UPPER MANYA,Yilo Krobo Municipal,Yilo Krobo Municipal,FALSE,FALSE,8
+Upper West Region,NANDOM,Lambussie Karni,Lambussie Karni,FALSE,FALSE,8
+Central Region,AWUTU SENYA EAST,Gomoa East,Gomoa East,FALSE,FALSE,7
+Eastern Region,ABUAKWA SOUTH,Abuakwa North Municipal,Abuakwa North Municipal,FALSE,FALSE,7
+Eastern Region,FANTEAKWA NORTH,Fanteakwa South,Fanteakwa South,FALSE,FALSE,7
+Eastern Region,UPPER WEST AKIM,Ga West Municipal,Ga West Municipal,FALSE,FALSE,7
+Northern Region,KARAGA,Nanton,Nanton,FALSE,FALSE,7
+Upper East Region,NABDAM,Talensi,Talensi,FALSE,FALSE,7
+Western Region,EFFIA KWESIMINTSIM MUNICIPAL,Mpohor,Mpohor,FALSE,FALSE,7
+Ashanti Region,ADANSI NORTH,Adansi Asokwa,Adansi Asokwa,FALSE,FALSE,6
+Ashanti Region,SEKYERE AFRAM PLAINS NORTH,Kwahu Afram Plains South,Kwahu Afram Plains South,FALSE,FALSE,6
+Bono East Region,KINTAMPO SOUTH,Kintampo North Municipal,Kintampo North Municipal,FALSE,FALSE,6
+Greater Accra Region,GA WEST MUNICIPAL,Ga West Municipal,Ga West Municipal,TRUE,TRUE,6
+Greater Accra Region,SHAI OSUDOKU,Yilo Krobo Municipal,Yilo Krobo Municipal,FALSE,FALSE,6
+Oti Region,KRACHI WEST,Sene East,Sene East,FALSE,FALSE,6
+Upper West Region,WA EAST,Wa Municipal,Wa Municipal,FALSE,FALSE,6
+Volta Region,CENTRAL TONGU,South Tongu,South Tongu,FALSE,FALSE,6
+Western North Region,JUABOSO,Bodi,Bodi,FALSE,FALSE,6
+Ashanti Region,AHAFO ANO SOUTH WEST,Ahafo Ano South East,Ahafo Ano South East,FALSE,FALSE,5
+Ashanti Region,AMANSIE SOUTH,Amansie West,Amansie West,FALSE,FALSE,5
+Ashanti Region,BOSOME FREHO,Adansi South,Adansi South,FALSE,FALSE,5
+Ashanti Region,OBUASI EAST,Obuasi East,Obuasi East,TRUE,TRUE,5
+Bono Region,BEREKUM EAST MUNICIPAL,Berekum West,Berekum West,FALSE,FALSE,5
+Eastern Region,AYENSUANO,Suhum Municipal,Suhum Municipal,FALSE,FALSE,5
+Eastern Region,NEW JUABEN NORTH MUNICIPAL,Abuakwa North Municipal,Abuakwa North Municipal,FALSE,FALSE,5
+Eastern Region,UPPER MANYA,Fanteakwa South,Fanteakwa South,FALSE,FALSE,5
+Northern Region,KUMBUNGU,Tolon,Tolon,FALSE,FALSE,5
+Upper East Region,BAWKU MUNICIPAL,Binduri,Binduri,FALSE,FALSE,5
+Upper West Region,DAFFIAMA BUSSIE ISSA,Wa East,Wa East,FALSE,FALSE,5
+Upper West Region,SISSALA WEST,Lambussie Karni,Lambussie Karni,FALSE,FALSE,5
+Ahafo Region,ASUTIFI SOUTH,Ahafo Ano North Municipal,Ahafo Ano North Municipal,FALSE,FALSE,4
+Central Region,ASIKUMA-ODOBEN-BRAKWA,Ajumako Enyan Essiam,Ajumako Enyan Essiam,FALSE,FALSE,4
+Central Region,ASSIN NORTH,Birim South,Birim South,FALSE,FALSE,4
+Eastern Region,KWAHU EAST,Kwahu West Municipal,Kwahu West Municipal,FALSE,FALSE,4
+Eastern Region,LOWER MANYA,Yilo Krobo Municipal,Yilo Krobo Municipal,FALSE,FALSE,4
+Eastern Region,OKERE,Yilo Krobo Municipal,Yilo Krobo Municipal,FALSE,FALSE,4
+Eastern Region,YILO KROBO,Upper Manya Krobo,Upper Manya Krobo,FALSE,FALSE,4
+Northern Region,MION,Gushegu Municipal,Gushegu Municipal,FALSE,FALSE,4
+Northern Region,TATALE SANGULI,Zabzugu,Zabzugu,FALSE,FALSE,4
+Savannah Region,SAWLA-TUNA-KALBA,Wa East,Wa East,FALSE,FALSE,4
+Upper East Region,BUILSA NORTH,Kasena Nankana West,Kasena Nankana West,FALSE,FALSE,4
+Upper West Region,LAMBUSSIE-KARNI,Sissala West,Sissala West,FALSE,FALSE,4
+Volta Region,ADAKLU,Central Tongu,Central Tongu,FALSE,FALSE,4
+Volta Region,AKATSI NORTH,Agortime-Ziope,Agortime-Ziope,FALSE,FALSE,4
+Volta Region,CENTRAL TONGU,North Tongu,North Tongu,FALSE,FALSE,4
+Volta Region,NORTH TONGU,Central Tongu,Central Tongu,FALSE,FALSE,4
+Volta Region,SOUTH TONGU,Central Tongu,Central Tongu,FALSE,FALSE,4
+Western North Region,BIA EAST,Bia West,Bia West,FALSE,FALSE,4
+Western North Region,BIA WEST,Bia East,Bia East,FALSE,FALSE,4
+Western North Region,BIA WEST,Juaboso,Juaboso,FALSE,FALSE,4
+Western North Region,BODI,Juaboso,Juaboso,FALSE,FALSE,4
+Western North Region,SUAMAN,Sefwi Akontombra,Sefwi Akontombra,FALSE,FALSE,4
+Western Region,NZEMA EAST,Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem Municipal,FALSE,FALSE,4
+Ahafo Region,ASUTIFI NORTH,Dormaa East,Dormaa East,FALSE,FALSE,3
+Ashanti Region,AHAFO ANO NORTH,Asutifi South,Asutifi South,FALSE,FALSE,3
+Ashanti Region,ATWIMA NWABIAGYA SOUTH,Atwima Kwanwoma,Atwima Kwanwoma,FALSE,FALSE,3
+Ashanti Region,OBUASI MUNICIPAL,Amansie Central,Amansie Central,FALSE,FALSE,3
+Bono Region,BANDA,Tain,Tain,FALSE,FALSE,3
+Bono Region,BEREKUM WEST,Berekum East Municipal,Berekum East Municipal,FALSE,FALSE,3
+Central Region,AGONA EAST,Upper West Akim,Upper West Akim,FALSE,FALSE,3
+Central Region,ASSIN NORTH,Twifo Ati Morkwa,Twifo Ati Morkwa,FALSE,FALSE,3
+Central Region,AWUTU SENYA,Upper West Akim,Upper West Akim,FALSE,FALSE,3
+Central Region,MFANTSEMAN MUNICIPAL,Abura Asebu Kwamankese,Abura Asebu Kwamankese,FALSE,FALSE,3
+Central Region,UPPER DENKYIRA EAST MUNICIPAL,Assin North,Assin North,FALSE,FALSE,3
+Eastern Region,AKWAPEM NORTH,Okere,Okere,FALSE,FALSE,3
+Eastern Region,ASUOGYAMAN,Lower Manya Krobo Municipal,Lower Manya Krobo Municipal,FALSE,FALSE,3
+Eastern Region,KWAHU AFRAM PLAINS NORTH,Kwahu Afram Plains South,Kwahu Afram Plains South,FALSE,FALSE,3
+Eastern Region,KWAHU AFRAM PLAINS SOUTH,Kwahu Afram Plains North,Kwahu Afram Plains North,FALSE,FALSE,3
+Eastern Region,NEW JUABEN SOUTH MUNICIPAL,New Juaben South Municipal,New Juaben South Municipal,TRUE,TRUE,3
+Eastern Region,YILO KROBO,Shai-Osudoku,Shai-Osudoku,FALSE,FALSE,3
+Greater Accra Region,ADA WEST,South Tongu,South Tongu,FALSE,FALSE,3
+Northern Region,KARAGA,East Mamprusi Municipal,East Mamprusi Municipal,FALSE,FALSE,3
+Northern Region,NANTON,Savelugu Municipal,Savelugu Municipal,FALSE,FALSE,3
+Northern Region,TOLON,Central Gonja,Central Gonja,FALSE,FALSE,3
+Oti Region,JASIKAN,Kadjebi,Kadjebi,FALSE,FALSE,3
+Savannah Region,CENTRAL GONJA,Tolon,Tolon,FALSE,FALSE,3
+Savannah Region,NORTH EAST GONJA,Central Gonja,Central Gonja,FALSE,FALSE,3
+Upper East Region,BOLGATANGA MUNICIPAL,Bongo,Bongo,FALSE,FALSE,3
+Upper East Region,TALENSI,Nabdam,Nabdam,FALSE,FALSE,3
+Upper West Region,LAMBUSSIE-KARNI,Jirapa Municipal,Jirapa Municipal,FALSE,FALSE,3
+Upper West Region,LAWRA,Nandom,Nandom,FALSE,FALSE,3
+Volta Region,AGOTIME ZIOPE,Akatsi North,Akatsi North,FALSE,FALSE,3
+Volta Region,AKATSI SOUTH,Agortime-Ziope,Agortime-Ziope,FALSE,FALSE,3
+Volta Region,KETU NORTH,Akatsi South Municipal,Akatsi South Municipal,FALSE,FALSE,3
+Western North Region,AOWIN,Sefwi Akontombra,Sefwi Akontombra,FALSE,FALSE,3
+Western Region,EFFIA KWESIMINTSIM MUNICIPAL,Effia Kwesimintsim Municipal,Effia Kwesimintsim Municipal,TRUE,TRUE,3
+Western Region,PRESTEA/HUNI VALLEY,Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem Municipal,FALSE,FALSE,3
+Western Region,SEKONDI TAKORADI METROPOLIS,Mpohor,Mpohor,FALSE,FALSE,3
+Ahafo Region,ASUNAFO SOUTH,Asunafo North Municipal,Asunafo North Municipal,FALSE,FALSE,2
+Ashanti Region,AHAFO ANO SOUTH EAST,Atwima Nwabiagya North,Atwima Nwabiagya North,FALSE,FALSE,2
+Ashanti Region,AHAFO ANO SOUTH WEST,Ahafo Ano North Municipal,Ahafo Ano North Municipal,FALSE,FALSE,2
+Ashanti Region,EJURA-SEKYEDUMASE,Sekyere Central,Sekyere Central,FALSE,FALSE,2
+Ashanti Region,OBUASI MUNICIPAL,Obuasi East,Obuasi East,FALSE,FALSE,2
+Ashanti Region,SEKYERE CENTRAL,Sekyere Afram Plains,Sekyere Afram Plains,FALSE,FALSE,2
+Bono East Region,KINTAMPO NORTH MUNICIPAL,Kintampo South,Kintampo South,FALSE,FALSE,2
+Bono East Region,PRU EAST,East Gonja Municipal,East Gonja Municipal,FALSE,FALSE,2
+Bono East Region,SENE EAST,Sene West,Sene West,FALSE,FALSE,2
+Bono East Region,TECHIMAN NORTH,Techiman Municipal,Techiman Municipal,FALSE,FALSE,2
+Bono Region,WENCHI MUNICIPAL,Techiman North,Techiman North,FALSE,FALSE,2
+Central Region,ABURA-ASEBU-KWAMANKESE,Mfantsiman Municipal,Mfantsiman Municipal,FALSE,FALSE,2
+Central Region,AGONA WEST MUNICIPAL,Gomoa Central,Gomoa Central,FALSE,FALSE,2
+Central Region,AJUMAKO-ENYAN-ESSIAM,Assin South,Assin South,FALSE,FALSE,2
+Central Region,ASIKUMA-ODOBEN-BRAKWA,Achiase,Achiase,FALSE,FALSE,2
+Central Region,ASIKUMA-ODOBEN-BRAKWA,Agona West Municipal,Agona West Municipal,FALSE,FALSE,2
+Central Region,CAPE COAST METROPOLITAN,Cape Cape Metropolitan Area (CCMA),CCMA-Cape Coast South,FALSE,FALSE,2
+Central Region,TWIFO HEMANG LOWER DENKYIRA,Abura Asebu Kwamankese,Abura Asebu Kwamankese,FALSE,FALSE,2
+Central Region,UPPER DENKYIRA EAST MUNICIPAL,Upper Denkyira West,Upper Denkyira West,FALSE,FALSE,2
+Central Region,UPPER DENKYIRA WEST,Wassa Amenfi East Municipal,Wassa Amenfi East Municipal,FALSE,FALSE,2
+Eastern Region,AKWAPEM SOUTH,Akwapim North Municipal,Akwapim North Municipal,FALSE,FALSE,2
+Eastern Region,ASUOGYAMAN,South Dayi,South Dayi,FALSE,FALSE,2
+Eastern Region,AYENSUANO,Upper West Akim,Upper West Akim,FALSE,FALSE,2
+Eastern Region,DENKYEMBOUR,Kwaebibirem Municipal,Kwaebibirem Municipal,FALSE,FALSE,2
+Eastern Region,FANTEAKWA SOUTH,Fanteakwa North,Fanteakwa North,FALSE,FALSE,2
+Eastern Region,OKERE,Akwapim North Municipal,Akwapim North Municipal,FALSE,FALSE,2
+Eastern Region,YILO KROBO,Lower Manya Krobo Municipal,Lower Manya Krobo Municipal,FALSE,FALSE,2
+Eastern Region,YILO KROBO,Okere,Okere,FALSE,FALSE,2
+Greater Accra Region,NINGO/PRAMPRAM,Ada West,Ada West,FALSE,FALSE,2
+Greater Accra Region,SHAI OSUDOKU,North Tongu,North Tongu,FALSE,FALSE,2
+Northern Region,SABOBA,Yendi Municipal,Yendi Municipal,FALSE,FALSE,2
+Northern Region,SAVELUGU,Nanton,Nanton,FALSE,FALSE,2
+Northern Region,TAMALE METROPOLITAN,Central Gonja,Central Gonja,FALSE,FALSE,2
+Northern Region,TOLON,Kumbungu,Kumbungu,FALSE,FALSE,2
+Northern Region,YENDI MUNICIPAL,Mion,Mion,FALSE,FALSE,2
+Oti Region,KRACHI EAST MUNICIPAL,Nkwanta South Municipal,Nkwanta South Municipal,FALSE,FALSE,2
+Oti Region,KRACHI EAST MUNICIPAL,Sene East,Sene East,FALSE,FALSE,2
+Oti Region,KRACHI NCHUMURU,Kpandai,Kpandai,FALSE,FALSE,2
+Savannah Region,CENTRAL GONJA,East Gonja Municipal,East Gonja Municipal,FALSE,FALSE,2
+Savannah Region,EAST GONJA MUNICIPAL,Pru East,Pru East,FALSE,FALSE,2
+Savannah Region,NORTH EAST GONJA,Tamale Metropolitan Area (TMA),TMA-Tamale South,FALSE,FALSE,2
+Savannah Region,SAWLA-TUNA-KALBA,Bole,Bole,FALSE,FALSE,2
+Savannah Region,WEST GONJA,Central Gonja,Central Gonja,FALSE,FALSE,2
+Upper East Region,BAWKU MUNICIPAL,Pusiga,Pusiga,FALSE,FALSE,2
+Upper East Region,BINDURI,Bawku Municipal,Bawku Municipal,FALSE,FALSE,2
+Upper East Region,BUILSA NORTH,Builsa South,Builsa South,FALSE,FALSE,2
+Upper East Region,PUSIGA,Bawku Municipal,Bawku Municipal,FALSE,FALSE,2
+Upper West Region,NANDOM,Lawra Municipal,Lawra Municipal,FALSE,FALSE,2
+Volta Region,ADAKLU,Agortime-Ziope,Agortime-Ziope,FALSE,FALSE,2
+Volta Region,AFADZATO SOUTH,South Dayi,South Dayi,FALSE,FALSE,2
+Volta Region,AKATSI NORTH,Ketu North Municipal,Ketu North Municipal,FALSE,FALSE,2
+Volta Region,AKATSI SOUTH,Akatsi North,Akatsi North,FALSE,FALSE,2
+Volta Region,HO MUNICIPAL,Ho West,Ho West,FALSE,FALSE,2
+Volta Region,KETA MUNICIPAL,Ketu North Municipal,Ketu North Municipal,FALSE,FALSE,2
+Volta Region,KPANDO MUNICIPAL,Biakoye,Biakoye,FALSE,FALSE,2
+Volta Region,NORTH TONGU,Shai-Osudoku,Shai-Osudoku,FALSE,FALSE,2
+Volta Region,SOUTH TONGU,Ada East,Ada East,FALSE,FALSE,2
+Western Region,SEKONDI TAKORADI METROPOLIS,Sekondi Takoradi Metropolitan Area (STMA),STMA-Essikado-Ketan,FALSE,FALSE,2
+Western Region,SHAMA,Mpohor,Mpohor,FALSE,FALSE,2
+Western Region,WASSA EAST,Mpohor,Mpohor,FALSE,FALSE,2
+Western Region,WASSA EAST,Twifo Ati Morkwa,Twifo Ati Morkwa,FALSE,FALSE,2
+Zanzan,Gontougo,Bia East,Bia East,FALSE,FALSE,2
+Ahafo Region,ASUNAFO NORTH MUNICIPAL,Asunafo South,Asunafo South,FALSE,FALSE,1
+Ahafo Region,ASUNAFO NORTH MUNICIPAL,Asutifi North,Asutifi North,FALSE,FALSE,1
+Ahafo Region,ASUNAFO SOUTH,Sefwi Wiawso Municipal,Sefwi Wiawso Municipal,FALSE,FALSE,1
+Ahafo Region,ASUTIFI SOUTH,Asutifi North,Asutifi North,FALSE,FALSE,1
+Ahafo Region,TANO NORTH MUNICIPAL,Tano South Municipal,Tano South Municipal,FALSE,FALSE,1
+Ahafo Region,TANO SOUTH MUNICIPAL,Offinso North,Offinso North,FALSE,FALSE,1
+Ashanti Region,ADANSI ASOKWA,Akrofuom,Akrofuom,FALSE,FALSE,1
+Ashanti Region,ADANSI SOUTH,Akrofuom,Akrofuom,FALSE,FALSE,1
+Ashanti Region,AFIGYA KWABRE NORTH,Sekyere South,Sekyere South,FALSE,FALSE,1
+Ashanti Region,AHAFO ANO NORTH,Ahafo Ano South West,Ahafo Ano South West,FALSE,FALSE,1
+Ashanti Region,AMANSIE CENTRAL,Obuasi Municipal,Obuasi Municipal,FALSE,FALSE,1
+Ashanti Region,AMANSIE SOUTH,Atwima Mponua,Atwima Mponua,FALSE,FALSE,1
+Ashanti Region,AMANSIE WEST,Bekwai Municipal,Bekwai Municipal,FALSE,FALSE,1
+Ashanti Region,ASANTE AKIM CENTRAL MUNICIPAL,Asante Akim North Municipal,Asante Akim North Municipal,FALSE,FALSE,1
+Ashanti Region,ASOKORE MAMPONG MUNICIPAL,Asokore Mampong Municipal,Asokore Mampong Municipal,TRUE,TRUE,1
+Ashanti Region,ATWIMA MPONUA,Atwima Nwabiagya South Municipal,Atwima Nwabiagya South Municipal,FALSE,FALSE,1
+Ashanti Region,ATWIMA MPONUA,Bibiani Anhwiaso Bekwai Municipal,Bibiani Anhwiaso Bekwai Municipal,FALSE,FALSE,1
+Ashanti Region,ATWIMA NWABIAGYA NORTH,Offinso Municipal,Offinso Municipal,FALSE,FALSE,1
+Ashanti Region,ATWIMA NWABIAGYA SOUTH,Atwima Mponua,Atwima Mponua,FALSE,FALSE,1
+Ashanti Region,BEKWAI MUNICIPAL,Amansie West,Amansie West,FALSE,FALSE,1
+Ashanti Region,BEKWAI MUNICIPAL,Bosome Freho,Bosome Freho,FALSE,FALSE,1
+Ashanti Region,BEKWAI MUNICIPAL,Bosomtwi,Bosomtwi,FALSE,FALSE,1
+Ashanti Region,BOSOMTWE,Juaben Municipal,Juaben Municipal,FALSE,FALSE,1
+Ashanti Region,EJISU MUNICIPAL,Kwabre East,Kwabre East,FALSE,FALSE,1
+Ashanti Region,KWABRE EAST,Juaben Municipal,Juaben Municipal,FALSE,FALSE,1
+Ashanti Region,OFORIKROM MUNICIPAL,Oforikrom Municipal,Oforikrom Municipal,TRUE,TRUE,1
+Ashanti Region,SEKYERE CENTRAL,Ejura Sekyedumase Municipal,Ejura Sekyedumase Municipal,FALSE,FALSE,1
+Ashanti Region,SEKYERE CENTRAL,Sekyere Kumawu,Sekyere Kumawu,FALSE,FALSE,1
+Ashanti Region,SEKYERE EAST,Juaben Municipal,Juaben Municipal,FALSE,FALSE,1
+Ashanti Region,SEKYERE KUMAWU,Sekyere Central,Sekyere Central,FALSE,FALSE,1
+Ashanti Region,SEKYERE SOUTH,Afigya Kwabre South,Afigya Kwabre South,FALSE,FALSE,1
+Bono East Region,ATEBUBU AMANTIN,Sekyere Afram Plains,Sekyere Afram Plains,FALSE,FALSE,1
+Bono East Region,KINTAMPO NORTH MUNICIPAL,Pru West,Pru West,FALSE,FALSE,1
+Bono East Region,SENE EAST,Kpandai,Kpandai,FALSE,FALSE,1
+Bono East Region,SENE EAST,Kwahu Afram Plains North,Kwahu Afram Plains North,FALSE,FALSE,1
+Bono East Region,TECHIMAN MUNICIPAL,Techiman North,Techiman North,FALSE,FALSE,1
+Bono East Region,TECHIMAN MUNICIPAL,Wenchi Municipal,Wenchi Municipal,FALSE,FALSE,1
+Bono Region,DORMAA MUNICIPAL,Dormaa East,Dormaa East,FALSE,FALSE,1
+Bono Region,JAMAN NORTH,Jaman South,Jaman South,FALSE,FALSE,1
+Bono Region,JAMAN SOUTH MUNICIPAL,Dormaa Central Municipal,Dormaa Central Municipal,FALSE,FALSE,1
+Bono Region,WENCHI MUNICIPAL,Sunyani West Municipal,Sunyani West Municipal,FALSE,FALSE,1
+Central Region,ABURA-ASEBU-KWAMANKESE,Assin South,Assin South,FALSE,FALSE,1
+Central Region,AGONA EAST,Asene Manso Akroso,Asene Manso Akroso,FALSE,FALSE,1
+Central Region,AGONA WEST MUNICIPAL,Agona East,Agona East,FALSE,FALSE,1
+Central Region,AGONA WEST MUNICIPAL,Asikuma Odoben Brakwa,Asikuma Odoben Brakwa,FALSE,FALSE,1
+Central Region,ASSIN FOSU,Assin South,Assin South,FALSE,FALSE,1
+Central Region,ASSIN NORTH,Achiase,Achiase,FALSE,FALSE,1
+Central Region,ASSIN SOUTH,Abura Asebu Kwamankese,Abura Asebu Kwamankese,FALSE,FALSE,1
+Central Region,AWUTU SENYA,Agona East,Agona East,FALSE,FALSE,1
+Central Region,CAPE COAST METROPOLITAN,Abura Asebu Kwamankese,Abura Asebu Kwamankese,FALSE,FALSE,1
+Central Region,EKUMFI,Gomoa West,Gomoa West,FALSE,FALSE,1
+Central Region,GOMOA EAST,Awutu Senya,Awutu Senya,FALSE,FALSE,1
+Central Region,GOMOA WEST,Ajumako Enyan Essiam,Ajumako Enyan Essiam,FALSE,FALSE,1
+Central Region,GOMOA WEST,Gomoa Central,Gomoa Central,FALSE,FALSE,1
+Central Region,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,Shama,Shama,FALSE,FALSE,1
+Central Region,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,Wassa East,Wassa East,FALSE,FALSE,1
+Central Region,TWIFO ATTI-MORKWA,Upper Denkyira East Municipal,Upper Denkyira East Municipal,FALSE,FALSE,1
+Central Region,TWIFO HEMANG LOWER DENKYIRA,Wassa East,Wassa East,FALSE,FALSE,1
+Central Region,UPPER DENKYIRA EAST MUNICIPAL,Twifo Ati Morkwa,Twifo Ati Morkwa,FALSE,FALSE,1
+Central Region,UPPER DENKYIRA WEST,Upper Denkyira East Municipal,Upper Denkyira East Municipal,FALSE,FALSE,1
+Eastern Region,ASENE AKROSO MANSO,West Akim Municipal,West Akim Municipal,FALSE,FALSE,1
+Eastern Region,ATIWA EAST,Atiwa West,Atiwa West,FALSE,FALSE,1
+Eastern Region,ATIWA EAST,Fanteakwa South,Fanteakwa South,FALSE,FALSE,1
+Eastern Region,ATIWA EAST,Kwaebibirem Municipal,Kwaebibirem Municipal,FALSE,FALSE,1
+Eastern Region,ATIWA EAST,Kwahu West Municipal,Kwahu West Municipal,FALSE,FALSE,1
+Eastern Region,ATIWA WEST,Atiwa East,Atiwa East,FALSE,FALSE,1
+Eastern Region,AYENSUANO,West Akim Municipal,West Akim Municipal,FALSE,FALSE,1
+Eastern Region,BIRIM CENTRAL MUNICIPAL,Denkyembuor,Denkyembuor,FALSE,FALSE,1
+Eastern Region,DENKYEMBOUR,Birim Central Municipal,Birim Central Municipal,FALSE,FALSE,1
+Eastern Region,FANTEAKWA SOUTH,Abuakwa North Municipal,Abuakwa North Municipal,FALSE,FALSE,1
+Eastern Region,FANTEAKWA SOUTH,Upper Manya Krobo,Upper Manya Krobo,FALSE,FALSE,1
+Eastern Region,FANTEAKWA SOUTH,Yilo Krobo Municipal,Yilo Krobo Municipal,FALSE,FALSE,1
+Eastern Region,KWAHU WEST,Birim North,Birim North,FALSE,FALSE,1
+Eastern Region,LOWER MANYA,Asuogyaman,Asuogyaman,FALSE,FALSE,1
+Eastern Region,LOWER MANYA,Shai-Osudoku,Shai-Osudoku,FALSE,FALSE,1
+Eastern Region,NEW JUABEN SOUTH MUNICIPAL,Okere,Okere,FALSE,FALSE,1
+Eastern Region,SUHUM MUNICIPAL,Ayensuano,Ayensuano,FALSE,FALSE,1
+Eastern Region,UPPER WEST AKIM,West Akim Municipal,West Akim Municipal,FALSE,FALSE,1
+Eastern Region,WEST AKIM,Asene Manso Akroso,Asene Manso Akroso,FALSE,FALSE,1
+Eastern Region,WEST AKIM,Denkyembuor,Denkyembuor,FALSE,FALSE,1
+Eastern Region,WEST AKIM,Upper West Akim,Upper West Akim,FALSE,FALSE,1
+Greater Accra Region,ADA EAST,Ada West,Ada West,FALSE,FALSE,1
+Greater Accra Region,GA EAST,Ga East Municipal,Ga East Municipal,TRUE,TRUE,1
+Greater Accra Region,GA SOUTH MUNICIPAL,Ga West Municipal,Ga West Municipal,FALSE,FALSE,1
+Greater Accra Region,SHAI OSUDOKU,Okere,Okere,FALSE,FALSE,1
+North East Region,BUNKPURUGU NAKPANDURI,Chereponi,Chereponi,FALSE,FALSE,1
+North East Region,BUNKPURUGU NAKPANDURI,East Mamprusi Municipal,East Mamprusi Municipal,FALSE,FALSE,1
+North East Region,BUNKPURUGU NAKPANDURI,Gushegu Municipal,Gushegu Municipal,FALSE,FALSE,1
+North East Region,EAST MAMPRUSI,Gushegu Municipal,Gushegu Municipal,FALSE,FALSE,1
+North East Region,EAST MAMPRUSI,Karaga,Karaga,FALSE,FALSE,1
+North East Region,EAST MAMPRUSI,West Mamprusi Municipal,West Mamprusi Municipal,FALSE,FALSE,1
+Northern Region,GUSHEGU,Chereponi,Chereponi,FALSE,FALSE,1
+Northern Region,GUSHEGU,Karaga,Karaga,FALSE,FALSE,1
+Northern Region,KARAGA,Savelugu Municipal,Savelugu Municipal,FALSE,FALSE,1
+Northern Region,KPANDAI,Nkwanta North (Kpassa),Nkwanta North (Kpassa),FALSE,FALSE,1
+Northern Region,KPANDAI,Nkwanta South Municipal,Nkwanta South Municipal,FALSE,FALSE,1
+Northern Region,KUMBUNGU,Mamprugu Moagduri,Mamprugu Moagduri,FALSE,FALSE,1
+Northern Region,MION,Nanton,Nanton,FALSE,FALSE,1
+Northern Region,NANUMBA NORTH,Nanumba South,Nanumba South,FALSE,FALSE,1
+Northern Region,NANUMBA NORTH,Yendi Municipal,Yendi Municipal,FALSE,FALSE,1
+Northern Region,NANUMBA SOUTH,Kpandai,Kpandai,FALSE,FALSE,1
+Northern Region,SABOBA,Chereponi,Chereponi,FALSE,FALSE,1
+Northern Region,SABOBA,Gushegu Municipal,Gushegu Municipal,FALSE,FALSE,1
+Northern Region,SABOBA,Mion,Mion,FALSE,FALSE,1
+Northern Region,SAGNERIGU,Kumbungu,Kumbungu,FALSE,FALSE,1
+Northern Region,SAGNERIGU,Nanton,Nanton,FALSE,FALSE,1
+Northern Region,TAMALE METROPOLITAN,North East Gonja,North East Gonja,FALSE,FALSE,1
+Northern Region,TAMALE METROPOLITAN,Tamale Metropolitan Area (TMA),TMA-Tamale Central,FALSE,FALSE,1
+Northern Region,ZABZUGU,Nanumba South,Nanumba South,FALSE,FALSE,1
+Northern Region,ZABZUGU,Tatale Sanguli,Tatale Sanguli,FALSE,FALSE,1
+Oti Region,KADJEBI,Krachi East Municipal,Krachi East Municipal,FALSE,FALSE,1
+Oti Region,KRACHI EAST MUNICIPAL,Kadjebi,Kadjebi,FALSE,FALSE,1
+Oti Region,KRACHI NCHUMURU,Krachi East Municipal,Krachi East Municipal,FALSE,FALSE,1
+Oti Region,KRACHI WEST,Krachi Nchumuru,Krachi Nchumuru,FALSE,FALSE,1
+Plateaux Region,Agou,Agortime-Ziope,Agortime-Ziope,FALSE,FALSE,1
+Savannah Region,EAST GONJA MUNICIPAL,Pru West,Pru West,FALSE,FALSE,1
+Savannah Region,WEST GONJA,North Gonja,North Gonja,FALSE,FALSE,1
+Upper East Region,BONGO,Bolgatanga Municipal,Bolgatanga Municipal,FALSE,FALSE,1
+Upper East Region,BONGO,Nabdam,Nabdam,FALSE,FALSE,1
+Upper East Region,NABDAM,Bolgatanga East,Bolgatanga East,FALSE,FALSE,1
+Upper West Region,JIRAPA,Lambussie Karni,Lambussie Karni,FALSE,FALSE,1
+Upper West Region,LAMBUSSIE-KARNI,Nandom,Nandom,FALSE,FALSE,1
+Upper West Region,NADOWLI-KALEO,Wa Municipal,Wa Municipal,FALSE,FALSE,1
+Upper West Region,WA WEST,Sawla Tuna Kalba,Sawla Tuna Kalba,FALSE,FALSE,1
+Upper West Region,WA WEST,Wa Municipal,Wa Municipal,FALSE,FALSE,1
+Volta Region,AFADZATO SOUTH,Hohoe Municipal,Hohoe Municipal,FALSE,FALSE,1
+Volta Region,AFADZATO SOUTH,Kpando Municipal,Kpando Municipal,FALSE,FALSE,1
+Volta Region,AFADZATO SOUTH,North Dayi,North Dayi,FALSE,FALSE,1
+Volta Region,AGOTIME ZIOPE,Adaklu,Adaklu,FALSE,FALSE,1
+Volta Region,AKATSI SOUTH,Keta Municipal,Keta Municipal,FALSE,FALSE,1
+Volta Region,AKATSI SOUTH,South Tongu,South Tongu,FALSE,FALSE,1
+Volta Region,CENTRAL TONGU,Adaklu,Adaklu,FALSE,FALSE,1
+Volta Region,HO WEST,Afadzato South,Afadzato South,FALSE,FALSE,1
+Volta Region,HO WEST,South Dayi,South Dayi,FALSE,FALSE,1
+Volta Region,HOHOE MUNICIPAL,Jasikan Municipal,Jasikan Municipal,FALSE,FALSE,1
+Volta Region,KETA MUNICIPAL,South Tongu,South Tongu,FALSE,FALSE,1
+Volta Region,KPANDO MUNICIPAL,Afadzato South,Afadzato South,FALSE,FALSE,1
+Volta Region,KPANDO MUNICIPAL,North Dayi,North Dayi,FALSE,FALSE,1
+Volta Region,NORTH TONGU,Ada West,Ada West,FALSE,FALSE,1
+Volta Region,SOUTH DAYI,Asuogyaman,Asuogyaman,FALSE,FALSE,1
+Volta Region,SOUTH DAYI,Ho West,Ho West,FALSE,FALSE,1
+Volta Region,SOUTH DAYI,North Dayi,North Dayi,FALSE,FALSE,1
+Western North Region,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,Atwima Mponua,Atwima Mponua,FALSE,FALSE,1
+Western North Region,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,Wassa Amenfi Central,Wassa Amenfi Central,FALSE,FALSE,1
+Western North Region,SEFWI-WIAWSO,Bibiani Anhwiaso Bekwai Municipal,Bibiani Anhwiaso Bekwai Municipal,FALSE,FALSE,1
+Western North Region,SEFWI-WIAWSO,Wassa Amenfi West Municipal,Wassa Amenfi West Municipal,FALSE,FALSE,1
+Western Region,AHANTA WEST MUNICIPAL,Tarkwa-Nsuaem Municipal,Tarkwa-Nsuaem Municipal,FALSE,FALSE,1
+Western Region,EFFIA KWESIMINTSIM MUNICIPAL,Ahanta West Municipal,Ahanta West Municipal,FALSE,FALSE,1
+Western Region,ELLEMBELLE,Jomoro Municipal,Jomoro Municipal,FALSE,FALSE,1
+Western Region,MPOHOR,Ahanta West Municipal,Ahanta West Municipal,FALSE,FALSE,1
+Western Region,SEKONDI TAKORADI METROPOLIS,Effia Kwesimintsim Municipal,Effia Kwesimintsim Municipal,FALSE,FALSE,1
+Western Region,SEKONDI TAKORADI METROPOLIS,Sekondi Takoradi Metropolitan Area (STMA),STMA-Takoradi,FALSE,FALSE,1
+Western Region,TARKWA NSUAEM,Mpohor,Mpohor,FALSE,FALSE,1
+Western Region,WASSA AMENFI CENTRAL,Wassa Amenfi West Municipal,Wassa Amenfi West Municipal,FALSE,FALSE,1
+Western Region,WASSA AMENFI EAST,Upper Denkyira West,Upper Denkyira West,FALSE,FALSE,1
+Western Region,WASSA AMENFI WEST,Wassa Amenfi Central,Wassa Amenfi Central,FALSE,FALSE,1
+Western Region,WASSA EAST,Shama,Shama,FALSE,FALSE,1
+Western Region,WASSA EAST,Twifo Heman Lower Denkyira,Twifo Heman Lower Denkyira,FALSE,FALSE,1
+Zanzan,Gontougo,Dormaa Central Municipal,Dormaa Central Municipal,FALSE,FALSE,1
