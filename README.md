@@ -12,6 +12,8 @@ The landing page is in [index.html](index.html), designed to run as a static Git
 
 **Reproducibility status:** See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for verified tests and remaining caveats. Use [CITATION.cff](CITATION.cff) for repository citation metadata.
 
+**Zenodo archived release (v3.3.7):** [10.5281/zenodo.23421035](https://doi.org/10.5281/zenodo.23421035). This DOI identifies the GitHub research archive, not a peer-reviewed article or SSRN posting.
+
 ## Empirical replication files
 
 The original 11 R scripts and verified Phase 6–9 output tables are now available in [analysis/](analysis/README.md). The upstream source datasets are linked rather than redistributed publicly pending rights/provenance review. This is a **partially independently validated research archive**, not a certified end-to-end replication.
