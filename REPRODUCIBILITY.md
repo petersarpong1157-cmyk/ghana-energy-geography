@@ -17,7 +17,7 @@ Do not confuse proximity to transmission lines with verified electricity access 
 ## Numerical verification
 - Region fixed-effects principal regression was independently reproduced from the source CSV in Python.
 - Reported Phase 6 and Phase 7 numerical output comparisons agree; Phase 9 common-sample harmonization results were reconciled.
-- This repository **does not presently contain the full source inputs, all R scripts, and phase-by-phase output tables** needed to claim an independently reproducible end-to-end geospatial and Conley HAC analysis.
+- This repository now includes [all eleven archived R phase scripts and the available Phase 6–9 numerical tables](analysis/README.md). It does **not** yet include all upstream source inputs or a fully independent end-to-end rerun of the spatial HAC and polygon pipeline.
 
 ## Outstanding qualifications
 1. The supplied district boundary archives contain ArcGIS processing timestamps from 2023; these do **not** establish legal boundary vintage or authoritative provenance.
@@ -28,7 +28,7 @@ Do not confuse proximity to transmission lines with verified electricity access 
 6. A fully independent rerun of the Conley and polygon-harmonized pipelines remains outstanding.
 
 ## Planned archive organization
-When reviewed for public release, reproducibility materials can be added under `analysis/` with `scripts/`, `outputs/`, and `metadata/`. Do not upload third-party datasets or other materials until their licensing and sharing permissions are confirmed.
+The scripts and selected result tables are published under `analysis/`. Do not upload third-party datasets or other materials until their licensing and sharing permissions are confirmed.
 
 ## Manuscript link
 A verified SSRN abstract URL/DOI has **not yet been supplied**. When confirmed, add it here and update the website. Neither this page nor the GitHub repository implies SSRN acceptance or peer review.
