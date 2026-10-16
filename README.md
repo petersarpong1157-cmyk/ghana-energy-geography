@@ -7,6 +7,10 @@ Research website for **Renewable Energy Opportunity and the Geography of Infrast
 ## Website
 The landing page is in [index.html](index.html), designed to run as a static GitHub Pages site. It includes responsive styling, descriptive data visualizations, research methods, key numerical results, and scientific limitations.
 
+**Website address:** https://petersarpong1157-cmyk.github.io/ghana-energy-geography/ (GitHub Pages was enabled by the repository owner; external live availability has not yet been independently confirmed.)
+
+**Reproducibility status:** See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for verified tests and remaining caveats. Use [CITATION.cff](CITATION.cff) for repository citation metadata.
+
 ## Study summary
 - Source records: 25,342 settlement records from the World Bank Ghana DRE Atlas.
 - Main complete-case model: 21,582 observations.
