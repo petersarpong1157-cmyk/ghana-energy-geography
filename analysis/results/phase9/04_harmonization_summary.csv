@@ -1,0 +1,11 @@
+metric,value
+original_rows,25342
+unique_spatial_matches_both,25334
+comparable_source_labels,25314
+source_261_name_mismatches,3461
+source_272_name_mismatches,3461
+261_272_name_mismatches,73
+matched_complete_model_n,21576
+source_clusters_common_n,232
+polygon261_clusters_common_n,232
+polygon272_clusters_common_n,234
