@@ -43,5 +43,5 @@ The final paper, data/code archive, and permanent SSRN/DOI links are **not** inc
 
 GitHub Pages has been enabled and the website published by the repository owner. The Zenodo DOI refers to the archived research code and website release; it is not an SSRN paper DOI.
 
-## AI assistance
-ChatGPT was used for research planning, coding support, interpretation, manuscript drafting and language editing. The researcher is responsible for verification and conclusions.
+## Research integrity and computational assistance
+The research is attributed to Peter Sarpong and Dora Konadu. Computational tools, including ChatGPT, assisted with research planning, R programming support, statistical interpretation, manuscript drafting, and editing. The authors are responsible for the final analysis, validation, interpretations, and manuscript. See [REPRODUCIBILITY.md](REPRODUCIBILITY.md) for the verification record and limitations.
