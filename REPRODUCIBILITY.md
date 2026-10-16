@@ -30,6 +30,10 @@ Do not confuse proximity to transmission lines with verified electricity access 
 ## Planned archive organization
 The scripts and selected result tables are published under `analysis/`. Do not upload third-party datasets or other materials until their licensing and sharing permissions are confirmed.
 
+## Zenodo archive
+
+GitHub research website and available analysis files archived as v3.3.7: [10.5281/zenodo.23421035](https://doi.org/10.5281/zenodo.23421035). This is a software/research archive DOI, not proof of complete independent replication.
+
 ## Manuscript link
 A verified SSRN abstract URL/DOI has **not yet been supplied**. When confirmed, add it here and update the website. Neither this page nor the GitHub repository implies SSRN acceptance or peer review.
 
