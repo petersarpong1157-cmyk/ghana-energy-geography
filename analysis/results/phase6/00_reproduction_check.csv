@@ -1,0 +1,4 @@
+model,solar_estimate
+region FE,0.01974109522754043
+district FE,0.08812325095719722
+district FE + spatial trend,0.11140208261129103
