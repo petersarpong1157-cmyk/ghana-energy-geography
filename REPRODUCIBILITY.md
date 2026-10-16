@@ -1,7 +1,7 @@
 # Reproducibility and scientific verification
 
 **Project:** Renewable Energy Opportunity and the Geography of Infrastructure Disadvantage: Settlement-Level Evidence from Ghana  
-**Researcher:** Peter Sarpong, Independent researcher  
+**Authors:** Peter Sarpong and Dora Konadu  
 **Status:** Working-paper research; the repository currently hosts a public research landing page, not a complete independent replication archive.
 
 ## Primary data
