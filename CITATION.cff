@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research website or its code, please cite this GitHub repository. Cite the working paper separately if an SSRN record becomes available."
+type: software
+title: "Ghana Energy Geography: Research Website"
+authors:
+  - family-names: Sarpong
+    given-names: Peter
+repository-code: "https://github.com/petersarpong1157-cmyk/ghana-energy-geography"
+url: "https://petersarpong1157-cmyk.github.io/ghana-energy-geography/"
+license: MIT
