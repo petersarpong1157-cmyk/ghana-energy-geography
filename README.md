@@ -3,7 +3,7 @@
 Research website for **Renewable Energy Opportunity and the Geography of Infrastructure Disadvantage: Settlement-Level Evidence from Ghana**.
 
 **Authors:** Peter Sarpong and Dora Konadu  
-**Institution noted for this project:** University of Education, Winneba, Ghana (individual author affiliations to confirm)
+**Author details:** Peter Sarpong — Independent Researcher; Dora Konadu — graduate of the University of Education, Winneba, Ghana (2023). Her current institutional affiliation has not been specified.
 
 ## Website
 The landing page is in [index.html](index.html), designed to run as a static GitHub Pages site. It includes responsive styling, descriptive data visualizations, research methods, key numerical results, and scientific limitations.
