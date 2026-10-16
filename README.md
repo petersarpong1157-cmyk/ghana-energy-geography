@@ -2,7 +2,7 @@
 
 Research website for **Renewable Energy Opportunity and the Geography of Infrastructure Disadvantage: Settlement-Level Evidence from Ghana**.
 
-**Researcher:** Peter Sarpong (Independent Researcher)
+**Researcher:** Peter Sarpong, Independent researcher
 
 ## Website
 The landing page is in [index.html](index.html), designed to run as a static GitHub Pages site. It includes responsive styling, descriptive data visualizations, research methods, key numerical results, and scientific limitations.
